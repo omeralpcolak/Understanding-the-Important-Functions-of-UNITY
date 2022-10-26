@@ -1,7 +1,7 @@
 # Understanding-the-Important-Functions-of-UNITY
 
 
-<p> In this project, i analyze the important functions of Unity such as Awake, Start, Update,FixedUpdate,LateUpdate, Instantiate, Invoke and Coroutine. To see the differences between Awake and Start or Update and FixedUpdate, i wrote some simple code. Here is the code i wrote, you can also acces these codes in the ImportantFunctions/Assets/Script folder!</p>
+<p> In this project, i analyzed the important functions of Unity such as Awake, Start, Update,FixedUpdate,LateUpdate, Instantiate, Invoke and Coroutine. To see the differences between Awake and Start or Update and FixedUpdate, i wrote some simple code. Here is the code i wrote, you can also acces these codes in the ImportantFunctions/Assets/Script folder!</p>
 
 <p>
     
